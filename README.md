@@ -1,11 +1,10 @@
 # Croatix
-Croatix is an official ringwormGO GNU/Linux distro. There is two version (on the end, we will it merge to main branch).
+Croatix is an official ringwormGO GNU/Linux distro
 
-```Linux kernel``` version:
-This version of Croatix only uses Linux kernel and nothing more.
-
-```LFS``` version:
-This version of Croatix was made using LFS book.
+## Checklits
+- [ ] Finish LFS
+- [ ] Finish BLFS
+- [ ] Busybox
 
 Thank you for choosing Croatix.
 
